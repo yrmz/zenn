@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "create": "zenn new:article",
-    "preview": "zenn preview"
+    "create": "npx zenn new:article",
+    "preview": "npx zenn preview"
   },
   "keywords": [],
   "author": "",
